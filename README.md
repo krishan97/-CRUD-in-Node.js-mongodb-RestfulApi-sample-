@@ -9,6 +9,8 @@
        **Install Command -** npm instal express
 ###   2. Mongoose
          **Install Command -** npm instal mongoose
+###   3. Run Project
+ **Run Command -** node app.js
       
 
  
