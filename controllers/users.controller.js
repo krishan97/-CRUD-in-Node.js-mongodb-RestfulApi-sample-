@@ -113,7 +113,7 @@ module.exports.updateUser = function(req, res, next) {
 
     var User = mongoose.model('users');
     User.update({
-      _id: req.response._id
+      _id: req.body.userId
     }, req.body, function(err) {
       if (err) {
         view._view({
