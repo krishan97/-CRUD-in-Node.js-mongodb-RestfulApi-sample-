@@ -6,9 +6,9 @@
 
 **Dependencies Library**
 ###   1. Express.JS
-       **Install Command -** npm instal express
+       **Install Command -** npm install express
 ###   2. Mongoose
-         **Install Command -** npm instal mongoose
+         **Install Command -** npm install mongoose
 ###   3. Run Project
  **Run Command -** node app.js
       
